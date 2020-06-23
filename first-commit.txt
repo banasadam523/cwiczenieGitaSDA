@@ -1,2 +1,3 @@
 jakiś pierwszy tekst
 jakiś drugi tekst dodany po wrzuceniu na stage
+3 tekst po 1 comicie razem z edycja 2 pliku zrobiony
